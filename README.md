@@ -9,7 +9,11 @@ I built my personal portfolio with my professional experince and skills that I k
 # Project Goal
 
 1.Improve the websites searchability. Each of nav menu items linked to the different section. Onlclicking menu items will take you to the exact section. 2. Created each section clearly so developer can get idea which each section means. 3. Styled html with external css file which linked to the html. I referenced that css file at the head of the html with styles.css file. 4. Designed contact form and footer which tells you that this websites is personal portfolio with all reserved rights.
-[Screen Shot 1](./assets/images/Screen Shot 1.png)
+![Screen Shot 1](./assets/images/screenshot1.png)
+![Screen Shot 2](./assets/images/screenshot2.png)
+![Screen Shot 3](./assets/images/screenshot3.png)
+![Screen Shot 4](./assets/images/screenshot4.png)
+![Screen Shot 5](./assets/images/screenshot5.png)
 
 Deveolpers
 [Gurjant Riar](https://github.com/GurjantRiar/GurjantRiar)
