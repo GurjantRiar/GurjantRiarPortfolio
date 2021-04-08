@@ -29,7 +29,7 @@ Code Editor
 Email
 [Email](gurjantriar85@yahoo.com)
 
-[Github Profile](https://github.com/GurjantRiar/GurjantRiar)
+[Github Profile](https://github.com/GurjantRiar/gurjantriarportfolio)
 
 [Personal Profolio](https://gurjantriar.com/)
 [Personal Profolio](https://github.com/GurjantRiar/GurjantRiar/blob/master/index.html)
