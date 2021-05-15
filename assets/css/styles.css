@@ -180,6 +180,7 @@ textarea {
 }
 .work a {
   text-decoration: none;
+margin-top: 500px;
 }
 /* .wodk img{
          height:100px;
@@ -196,8 +197,22 @@ textarea {
   margin-top: 250px;
 }
 
-@media screen and (min-width: 800px) {
+/* @media screen and (min-width: 800px) {
   body {
     text-align: justify;
+    position: relative;
   }
 }
+
+@media screen and (min-width: 600px) {
+  body {
+    text-align: justify;
+    position: relative;
+  }
+}
+@media screen and (min-width: 1040px) {
+  body {
+    text-align: justify;
+    position: relative;
+  }
+} */
